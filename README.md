@@ -1,6 +1,6 @@
 
 
-# Machine Learning Algorithms Repository 📚🤖
+# Machine Learning Algorithms & Project Repository 📚🤖
 
 Welcome to the **Machine Learning Algorithms Repository**! This repository serves as a collection of commonly used machine learning algorithms, implemented with simplicity and clarity. Whether you're a beginner looking to understand the core concepts or a seasoned developer in need of quick algorithm references, this repository has you covered.
 
